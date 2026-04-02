@@ -1,7 +1,7 @@
 # 🌊 K-UVR | Audio Separator
 A standalone, high-performance Google Colab notebook for studio-grade vocal and instrumental separation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xattyla/K-UVR-Colab/blob/main/K-UVR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zattyla/K-UVR-Colab/blob/main/K-UVR.ipynb)
 
 ## 💡 Why use this?
 Most RVC notebooks fail because of library conflicts between audio separation and voice conversion. This **UVR-Only** environment uses **NumPy 2.0+** and the latest `audio-separator` engine to ensure:
