@@ -1,4 +1,4 @@
-# 🌊 UVR Elite Audio Separator
+# 🌊 K-UVR | Audio Separator
 A standalone, high-performance Google Colab notebook for studio-grade vocal and instrumental separation.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xattyla/K-UVR-Colab/blob/main/K-UVR.ipynb)
